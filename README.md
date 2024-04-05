@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Andrae24
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+
 
 
 <!---
